@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I always say: "never doubt me when I'm sure"
 
 <div align="center">
-  <a href="https://github.com/roberto-barros">
+  <a href="https://github.com/roberto-barros"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberto-barros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-barros&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -32,10 +32,10 @@ Here are some ideas to get you started:
     <p>Let's connect!</p>    
     <a href="https://www.linkedin.com/in/roberto-barros-rb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href = "mailto:roberto_barros@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
+  
+  ![Snake animation](https://github.com/roberto-barros/roberto-barros/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
-    
-    ##
-    
-    ![Snake animation](https://github.com/roberto-barros/roberto-barros/blob/output/github-contribution-grid-snake.svg)
+  
       
   
