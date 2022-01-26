@@ -2,8 +2,6 @@
 
 I'm Roberto. I'm passionate about technology and a big fan of anime. I'm a front-end student at Alura 💻, DIO 👨‍💻 and majoring in systems analysis and development at UNINASSAU 🧑‍🎓. I'm looking for my first opportunity in the technology area 🎯.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on new projects to show my skills
 - 🌱 I'm currently focused on studying react ⚛️
 - 💬 Ask me about my goal to live abroad
@@ -30,7 +28,8 @@ Here are some ideas to get you started:
   
   <div>
     <p>Let's connect!</p>    
-    <a href="https://www.linkedin.com/in/roberto-barros-rb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/roberto-barros-rb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
+    <p>Contact me!</p>
     <a href = "mailto:roberto_barros@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
   
   ![Snake animation](https://github.com/roberto-barros/roberto-barros/blob/output/github-contribution-grid-snake.svg)
